@@ -45,10 +45,6 @@ Website Hosting, outcome, 50, Others
 Ice cream, outcome, 3, Food
 ```
 
-## Test Specification
-
-Before running the tests, create a database named "gostack_desafio06_tests" so that all the tests can execute correctly
-
 ## :memo: Licence
 
 This project is under license from MIT. See the archive [LICENSE](LICENSE) to more details.
